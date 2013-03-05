@@ -9,7 +9,7 @@ Simple grid includes Normalize.css and uses Grunt to minify the stylesheets.
 
 1. Install Grunt and the dependencies `$ npm install`
     
-2. Add your custom styles to `style.css`
+2. Add your custom styles to `./src/style.css`
 
 3. Minify the CSS `$ grunt`
    
