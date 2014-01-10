@@ -1,20 +1,16 @@
 {
   "name": "simple-grid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple, responsive CSS grid layout.",
   "repository": {
     "type": "git",
     "url": "git://github.com/fiveisprime/simple-grid.git"
   },
   "author": "Matt Hernandez <matt@modulus.io>",
-  "license": "BSD",
+  "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "bc1080ee82de9ca9cb4c1f05f030adbb1a1ca972",
   "devDependencies": {
-    "grunt": "~0.4.0",
-    "grunt-contrib-cssmin": "~0.4.1"
-  },
-  "scripts": {
-    "preinstall": "npm install -g grunt-cli"
+    "clean-css": "~2.0.6",
+    "myth": "~0.3.0"
   }
 }
