@@ -1,4 +1,4 @@
-SRC = src/normalize.css src/grid.css src/style.css
+SRC = src/normalize.css src/grid.css src/user.css
 
 all: build min
 	@echo ===========================

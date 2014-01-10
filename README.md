@@ -72,7 +72,7 @@ This repository includes all you need to build your own site styles. This
 includes:
 
 1. Normalize.css
-1. style.css (for your styles)
+1. user.css (for your styles)
 1. Myth CSS Processing
 1. CSS-Clean Minification
 
