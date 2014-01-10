@@ -20,7 +20,7 @@ Simple grid is a twelve column grid system and includes the following classes:
 
 That's it.
 
-## Example
+### Example
 
 ```html
 <article class="container clearfix">
