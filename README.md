@@ -60,6 +60,12 @@ That's it.
 </article>
 ```
 
+Result
+
+![Full Width](images/full.png)
+
+![Mobile](images/mobile.png)
+
 # What's Included
 
 This repository includes all you need to build your own site styles. This
